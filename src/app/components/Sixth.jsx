@@ -3,7 +3,7 @@ import React from 'react'
 const Sixth = () => {
     return (
         <section className='bg-white text-black w-full  pb-10'>
-              {/*  start of form component  */}
+              {/*  start of form component  for cheking git */}
 <div className='px-4'>
             <div className=' max-w-screen-sm  mx-auto rounded-[10px] py-6 flex flex-col justify-center gap-2 items-center   shadow-xl shadow-gray-500/40'>
                 {/* heading */}
